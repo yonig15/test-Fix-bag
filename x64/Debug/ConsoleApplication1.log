@@ -1,0 +1,4 @@
+﻿  Q3.c
+C:\level-up\c lesson-level up\source\repos\test06112022\ConsoleApplication1\ConsoleApplication1\Q3.c(71,32): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\level-up\c lesson-level up\source\repos\test06112022\ConsoleApplication1\ConsoleApplication1\Q3.c(53,19): warning C4101: 'ch': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\level-up\c lesson-level up\source\repos\test06112022\ConsoleApplication1\x64\Debug\test06112022.exe
